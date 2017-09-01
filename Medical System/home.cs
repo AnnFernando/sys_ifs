@@ -45,5 +45,12 @@ namespace Medical_System
             //list.Text = dr.GetString(0);
             //dbConn.Conn.Dispose();
         }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            this.Hide();
+            StudentList newList = new StudentList();
+            newList.Show();
+        }
     }
 }

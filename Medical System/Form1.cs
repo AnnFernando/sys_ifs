@@ -13,6 +13,7 @@ namespace Medical_System
     public partial class login : Form
     {
         DB_Operations dbConn = new DB_Operations();
+
         public login()
         {
             InitializeComponent();
