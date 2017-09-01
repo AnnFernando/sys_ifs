@@ -1,0 +1,10 @@
+C:\demo\Medical System\Medical System\bin\Debug\Medical System.exe.config
+C:\demo\Medical System\Medical System\bin\Debug\Medical System.exe
+C:\demo\Medical System\Medical System\bin\Debug\Medical System.pdb
+C:\demo\Medical System\Medical System\obj\x86\Debug\Medical_System.login.resources
+C:\demo\Medical System\Medical System\obj\x86\Debug\Medical_System.home.resources
+C:\demo\Medical System\Medical System\obj\x86\Debug\Medical_System.Properties.Resources.resources
+C:\demo\Medical System\Medical System\obj\x86\Debug\Medical System.csproj.GenerateResource.Cache
+C:\demo\Medical System\Medical System\obj\x86\Debug\Medical System.exe
+C:\demo\Medical System\Medical System\obj\x86\Debug\Medical System.pdb
+C:\demo\Medical System\Medical System\obj\x86\Debug\Medical System.csprojResolveAssemblyReference.cache
